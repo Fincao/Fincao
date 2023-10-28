@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="[https://.svg](https://raw.githubusercontent.com/Fincao/Fincao/main/perfil-git_Prancheta%201.webp)"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/Fincao/Fincao/main/perfil-git_Prancheta%201.webp"/>
 <h1 align="left">Olá, meu nome é William!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fincao&color=yellow" alt="Profile views" /> </p>
 
@@ -35,7 +35,7 @@
 
 ## Contato
 
-<p align="left" style="background:yellow">
+<p align="left">
 <a href="https://www.linkedin.com/in/william-pedro-de-oliveira-84388027a" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-William-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
