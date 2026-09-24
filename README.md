@@ -4,8 +4,6 @@
 
 - 🔥 Sou Desenvolvedor Web Sênior e Dev Mobile
 
-- 🔭 Trabalho na  [Arara Resultados](https://arararesultados.com.br/)
-
 - 💬 Me pergunte sobre **PHP, SQL, JavaScript, Wordpress, C++, Object Pascal**
 
 - ⚡ Atualmente estudando **Testes automatizados**
@@ -23,6 +21,7 @@
 ![React-Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=React)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
+![GreenSock](https://img.shields.io/badge/-GreenSock-05122A?style=flat&logo=greensock)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=testinglibrary)&nbsp;
