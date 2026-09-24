@@ -23,7 +23,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![React-Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=React)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=testinglibrary)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&)&nbsp;
 ![Object Pascal](https://img.shields.io/badge/-Object%20Pascal-05122A?style=flat&logo=Delphi)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
