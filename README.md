@@ -22,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![react-native](https://img.shields.io/badge/-react-native-05122A?style=flat&logo=react-native)&nbsp;
+![react-native](https://img.shields.io/badge/-React-Native-05122A?style=flat&logo=React-Native)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&)&nbsp;
 ![Object Pascal](https://img.shields.io/badge/-Object%20Pascal-05122A?style=flat&logo=Delphi)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
