@@ -8,7 +8,7 @@
 
 - ⚡ Atualmente estudando **Testes automatizados**
 
-- ⚡ Curto muito mexer com **IOT** & **Pentesting**
+- 🤖 Curto muito mexer com **IOT** & **Pentesting**
 
 - 👨‍💻 Mais sobre [likeweb.com.br](http://likeweb.com.br/)
 
