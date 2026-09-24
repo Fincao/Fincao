@@ -30,6 +30,9 @@
 ![Object Pascal](https://img.shields.io/badge/-Object%20Pascal-05122A?style=flat&logo=Delphi)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
+![Playcanvas](https://img.shields.io/badge/-Playcanvas-05122A?style=flat&logo=playcanvas)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)&nbsp;
 
