@@ -4,7 +4,7 @@
 
 - 🔥 Sou Desenvolvedor Web Sênior e Dev Mobile
 
-- 💬 Me pergunte sobre **PHP, SQL, JavaScript, Wordpress, C++, Object Pascal**
+- 💬 Me pergunte sobre **PHP, SQL, JavaScript, React-Native, C++, Playwright**
 
 - ⚡ Atualmente estudando **Testes automatizados**
 
